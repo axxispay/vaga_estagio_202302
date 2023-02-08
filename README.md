@@ -13,16 +13,14 @@ Exemplos:
 
 
 Entrada: array = [1,2,3,4,5]
-
 Saída: 11
 
 Entrada: array = [15,25,35]
-
 Saída: 9
 
 Entrada: array = [8,8]
-
 Saída: 10
+
 
 
 **Boa sorte!**
